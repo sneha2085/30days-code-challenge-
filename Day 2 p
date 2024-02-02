@@ -1,0 +1,13 @@
+import java.util.*;<br>
+class prg<br>
+{<br>
+public static void main()<br>
+{<br>
+Scanner s=new Scanner(System.in);<br>
+System.out.println("Enter your name :");<br>
+String st=s.nextLine();<br>
+System.out.println("Enter your age :");<br>
+int age=s.nextInt();<br>
+System.out.println("hello:"+st);<br>
+}<br>
+}
